@@ -2,7 +2,10 @@
 
 ## Files
 - `index.html` — light personal portfolio
+https://keithmacalam0-arch.github.io/Portfolio/productivity.html?utm_source=chatgpt.com
+
 - `productivity.html` — public-accountability productivity tracker prototype
+https://keithmacalam0-arch.github.io/Portfolio/?utm_source=chatgpt.com
 
 ## Preview
 Open `index.html` in a browser. Use the "View my productivity" link to open the tracker.
